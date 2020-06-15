@@ -1,8 +1,7 @@
 # Rock-Paper-Lizard-Spock
-The game who got famous because of The Big Bang Theory
+The game which got famous because of The Big Bang Theory
 
-<q>
-Scissors cuts Paper <br>
+<q>Scissors cuts Paper <br>
 Paper covers Rock   <br>
 Rock crushes Lizard <br>
 Lizard poisons Spock <br>
